@@ -1,0 +1,54 @@
+{
+  "members": [
+    {
+      "firstName": "Jason",
+      "lastName": "Stateham",
+      "img": "https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2018/08/08150505/Jason-Statham-Countdown-Rep.jpg",
+      "hobbies": "Martial Arts, Football, Diving, Motor Racing",
+      "mischellaneous": {
+        "favoriteBand": "The Smiths",
+        "favoriteFood": "Sushi"
+      }
+    },
+    {
+      "firstName": "Dwayne",
+      "lastName": "Johnson",
+      "img": "https://movieguide.b-cdn.net/wp-content/uploads/2022/06/DwayneJohnson66.jpg",
+      "hobbies": "Wrestling, Football, Acting",
+      "mischellaneous": {
+        "favoriteBand": "Chris Stapleton",
+        "favoriteFood": "Pizza, Sushi"
+      }
+    },
+    {
+      "firstName": "Vin",
+      "lastName": "Diesel",
+      "img": "https://media.gq-magazine.co.uk/photos/5f0f0f9de5abfe658f20715d/16:9/pass/20200714-diesel-cars-09.jpg",
+      "hobbies": "Wrestling, Football, Acting",
+      "mischellaneous": {
+        "favoriteBand": "Latin/Techno",
+        "favoriteFood": "Italian Food"
+      }
+    },
+    {
+      "firstName": "Julia",
+      "lastName": "Roberts",
+      "img": "https://www.etonline.com/sites/default/files/styles/max_640x640/public/images/2023-01/robertssplit.jpg?h=fddc5037&itok=3eTtrarE",
+      "hobbies": "Acting, Shopping, Traveling",
+      "mischellaneous": {
+        "favoriteBand": "Arpi (Alto) Petrosyan",
+        "favoriteFood": "Brussels Sprout & Pancetta Salad"
+      }
+    },
+    {
+      "firstName": "Angelina",
+      "lastName": "Jolie",
+      "img": "https://www.elnacional.cat/enblau/uploads/s1/21/82/49/4/Angelina%20Jolie%20-instagram.png",
+      "hobbies": "Humanitarian work, Travel, Writing",
+      "mischellaneous": {
+        "favoriteBand": "Rock Band",
+        "favoriteFood": "Fast Food (McDonald's)"
+      }
+    }
+  ]
+}
